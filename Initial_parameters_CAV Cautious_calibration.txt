@@ -1,0 +1,12 @@
+maxSpeed_CAV Cautious,100.44,0.0,100.44,100.44
+maxAccel_CAV Cautious,2.83,0.0,2.83,2.83
+normalDecel_CAV Cautious,3.73,0.0,3.73,3.73
+maxDecel_CAV Cautious,6.54,0.0,6.54,6.54
+speedAcceptance_CAV Cautious,1.03,0.0,1.03,1.03
+minDist_CAV Cautious,1.5,0.0,1.5,1.5
+overtakeSpeedAtt_CAV Cautious,90.0
+laneRecoverySpeedAtt_CAV Cautious,95.0
+reactionTime_CAV Cautious,0.6
+reactionTimeAtStop_CAV Cautious,0.6
+reactionTimeAtTrafficLight_CAV Cautious,0.6
+probability_CAV Cautious,1.0

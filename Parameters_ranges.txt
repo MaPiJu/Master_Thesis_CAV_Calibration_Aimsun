@@ -1,0 +1,7 @@
+maxSpeed,80.0,150.0
+maxAccel,2.0,5.0
+normalDecel,2.0,5.0
+maxDecel,4.0,7.0
+speedAcceptance,0.6,1.5
+minDist,0.1,2.0
+reactionTime,0.5,2.4
