@@ -9,7 +9,7 @@ To reproduce the experiment, open the Aimsun file "Master's Thesis Network".
 **1st Synthetic Calibration Data Production:**
 
 Select the API files "WU Read_Aggregated_Detectors.py" in the Dynamic Scenario 37524.
-\nIn the GUI run the Python script: "WU No Distinct Synth Data Production"
+In the GUI run the Python script: "WU No Distinct Synth Data Production"
 
 
 **2nd Synthetic Validation Data Production:**
